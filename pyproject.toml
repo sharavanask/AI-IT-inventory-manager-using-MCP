@@ -1,0 +1,11 @@
+[project]
+name = "it"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]>=1.10.1",
+    "mysql-connector>=2.2.9",
+    "pymysql>=1.1.1",
+]
