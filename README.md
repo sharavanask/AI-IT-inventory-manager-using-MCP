@@ -35,7 +35,7 @@ python your_script.py
 
 
 ## Example input 
-return all the ouse in the inventpry please return what the tool is returning
+what are the  diff types of mouse models available in the inventory
 
 ## Workflow
 
